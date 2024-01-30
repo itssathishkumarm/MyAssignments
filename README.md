@@ -2,7 +2,7 @@ This Project is to validate the Deck Of Cards API  and validating below scenario
 
 ## Features
 
-- Added the TestNG test to validate draw the card and verify the BlackJack when
+- TestNG test to validate BlackJack when user draws 3 cards and 2 cards 
   
 
 ## Prerequisites
