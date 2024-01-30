@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-29T16:17:22 PST" name="All Test Suite" finished-at="2024-01-29T16:17:29 PST" duration-ms="7543">
+    <groups>
+    </groups>
+    <test started-at="2024-01-29T16:17:22 PST" name="/Users/sathish.kumar/Downloads/MyProject-master/RestAssuredAPI" finished-at="2024-01-29T16:17:29 PST" duration-ms="7543">
+      <class name="com.test.CardGameTest">
+        <test-method is-config="true" signature="testBlackjackGame()[pri:0, instance:com.test.CardGameTest@6e75aa0d]" started-at="2024-01-29T16:17:26 PST" name="testBlackjackGame" finished-at="2024-01-29T16:17:27 PST" duration-ms="1136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBlackjackGame -->
+        <test-method signature="drawCardsof2()[pri:0, instance:com.test.CardGameTest@6e75aa0d]" started-at="2024-01-29T16:17:27 PST" name="drawCardsof2" finished-at="2024-01-29T16:17:28 PST" duration-ms="1208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drawCardsof2 -->
+        <test-method signature="drawCardsof3()[pri:0, instance:com.test.CardGameTest@6e75aa0d]" started-at="2024-01-29T16:17:28 PST" name="drawCardsof3" finished-at="2024-01-29T16:17:29 PST" duration-ms="810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drawCardsof3 -->
+      </class> <!-- com.test.CardGameTest -->
+      <class name="com.test.CardGame2">
+        <test-method signature="testBlackjackGame1()[pri:0, instance:com.test.CardGame2@16aa0a0a]" started-at="2024-01-29T16:17:22 PST" name="testBlackjackGame1" finished-at="2024-01-29T16:17:26 PST" duration-ms="4344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBlackjackGame1 -->
+      </class> <!-- com.test.CardGame2 -->
+    </test> <!-- /Users/sathish.kumar/Downloads/MyProject-master/RestAssuredAPI -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
